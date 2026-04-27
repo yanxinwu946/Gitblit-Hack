@@ -1,0 +1,6 @@
+*/*
+
+!.gitignore
+!README.md
+!gitblit_hack.py
+!requirements.txt
